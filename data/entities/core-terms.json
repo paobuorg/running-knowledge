@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:core-terms",
+  "slug": "core-terms",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-stride-frequency-review",
+    "knowledge-uphill-downhill-running",
+    "knowledge-physiology-determinants",
+    "tool-world-athletics-marathon",
+    "tool-gpx-standard",
+    "tool-geojson-rfc"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:training-week",
+    "knowledge:running-form",
+    "tool:pace",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "training",
+      "technique"
+    ],
+    "contentType": "glossary",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "reference"
+    ]
+  }
+}

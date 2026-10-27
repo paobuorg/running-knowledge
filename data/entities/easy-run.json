@@ -1,0 +1,35 @@
+{
+  "entityId": "knowledge:easy-run",
+  "slug": "easy-run",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-odphp-pag"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:recovery-day"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "technique"
+    ],
+    "contentType": "concept",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "daily-training"
+    ]
+  }
+}

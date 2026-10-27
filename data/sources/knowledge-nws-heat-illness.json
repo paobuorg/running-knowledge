@@ -1,0 +1,14 @@
+{
+  "sourceId": "knowledge-nws-heat-illness",
+  "title": "Heat Cramps, Exhaustion, Stroke",
+  "url": "https://www.weather.gov/safety/heat-illness",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "claims": [
+    "Heat exhaustion can cause heavy sweating, weakness, dizziness, nausea, headache and fainting.",
+    "Heat stroke is an emergency with confusion, slurred speech, very high body temperature, rapid pulse and possible loss of consciousness.",
+    "Heat stroke requires emergency services; call emergency services first and cool the person while waiting."
+  ],
+  "accessedAt": "2026-10-27",
+  "license": null
+}

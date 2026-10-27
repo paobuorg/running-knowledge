@@ -1,0 +1,37 @@
+{
+  "entityId": "knowledge:running-shoes",
+  "slug": "running-shoes",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-shoe-cushioning",
+    "knowledge-nps-ten-essentials"
+  ],
+  "relatedRefs": [
+    "knowledge:running-form",
+    "knowledge:pain-and-load",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

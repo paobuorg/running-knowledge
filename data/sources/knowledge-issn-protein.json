@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-issn-protein",
+  "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28642676/",
+  "publisher": "Journal of the International Society of Sports Nutrition",
+  "publishedAt": "2017-06-20",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "An overall daily protein intake of 1.4-2.0 g/kg body weight per day is sufficient for most exercising individuals.",
+    "General per-serving recommendations are about 0.25 g of high-quality protein per kg body weight, or an absolute dose of 20-40 g, distributed every 3-4 hours across the day.",
+    "Physically active people can meet protein needs with whole foods, while supplements can be a practical way to ensure adequate intake.",
+    "Endurance athletes should focus on adequate carbohydrate intake for performance; protein may help offset muscle damage and support recovery."
+  ],
+  "license": null
+}

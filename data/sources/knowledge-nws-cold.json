@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-nws-cold",
+  "title": "Cold Weather Safety",
+  "url": "https://www.weather.gov/safety/cold",
+  "publisher": "U.S. National Weather Service",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Extremely cold air combined with wind can create dangerous wind-chill values.",
+    "People exposed to extreme cold are susceptible to frostbite and can succumb to hypothermia.",
+    "Uncovered skin and the extremities, such as hands and feet, are most prone to frostbite.",
+    "Hypothermia occurs when the body loses heat faster than it can produce it."
+  ],
+  "license": null
+}

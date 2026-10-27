@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:route-safety",
+  "slug": "route-safety",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nws-heat-illness",
+    "knowledge-nps-hike-smart",
+    "knowledge-nps-hiking-safety"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:running-shoes",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "gear",
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

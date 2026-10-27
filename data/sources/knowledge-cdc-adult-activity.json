@@ -1,0 +1,14 @@
+{
+  "sourceId": "knowledge-cdc-adult-activity",
+  "title": "Adult Activity: An Overview",
+  "url": "https://www.cdc.gov/physical-activity-basics/guidelines/adults.html",
+  "publisher": "CDC",
+  "publishedAt": "2023-12-20",
+  "claims": [
+    "Adults need at least 150 minutes of moderate-intensity activity weekly, or an equivalent combination.",
+    "Adults also need two days of muscle-strengthening activity each week.",
+    "Activity can be spread out and broken up; some activity is better than none."
+  ],
+  "accessedAt": "2026-10-27",
+  "license": null
+}

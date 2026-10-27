@@ -1,0 +1,36 @@
+{
+  "entityId": "knowledge:sleep-recovery",
+  "slug": "sleep-recovery",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-insomnia"
+  ],
+  "relatedRefs": [
+    "knowledge:recovery-day",
+    "knowledge:training-week",
+    "knowledge:pain-and-load",
+    "tool:run-walk"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "entityId": "knowledge:marathon-distance",
+  "slug": "marathon-distance",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-world-athletics-marathon"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "concept",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "reading"
+    ]
+  }
+}

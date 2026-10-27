@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:running-form",
+  "slug": "running-form",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-stride-frequency-review",
+    "knowledge-uphill-downhill-running",
+    "knowledge-surface-running",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:running-shoes",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

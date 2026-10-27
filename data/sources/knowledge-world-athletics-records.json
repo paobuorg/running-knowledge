@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-world-athletics-records",
+  "title": "World Records",
+  "url": "https://worldathletics.org/records/by-category/world-records",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "World Athletics publishes world records by event and category.",
+    "The records list marks records that are pending ratification.",
+    "Road-running record tables distinguish mixed-gender and women-only races.",
+    "A record listing is a governing-body recognition, not simply the fastest time reported anywhere."
+  ],
+  "license": null
+}

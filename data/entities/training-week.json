@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:training-week",
+  "slug": "training-week",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-adult-activity",
+    "knowledge-odphp-activity-planner",
+    "knowledge-nhs-couch-to-5k"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:long-run",
+    "knowledge:running-habits",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

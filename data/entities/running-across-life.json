@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:running-across-life",
+  "slug": "running-across-life",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-cdc-older-adults",
+    "knowledge-cdc-chronic-conditions",
+    "knowledge-cdc-healthy-weight",
+    "knowledge-cdc-pregnancy-activity"
+  ],
+  "relatedRefs": [
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running",
+    "knowledge:training-week",
+    "knowledge:route-safety"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

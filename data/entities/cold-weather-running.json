@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:cold-weather-running",
+  "slug": "cold-weather-running",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nws-cold",
+    "knowledge-nps-winter",
+    "knowledge-nps-ten-essentials",
+    "knowledge-nps-hiking-safety"
+  ],
+  "relatedRefs": [
+    "knowledge:route-safety",
+    "knowledge:running-shoes",
+    "knowledge:watch-gps",
+    "knowledge:trail-gear"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "winter"
+    ]
+  }
+}

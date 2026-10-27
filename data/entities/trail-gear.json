@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:trail-gear",
+  "slug": "trail-gear",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nps-ten-essentials",
+    "knowledge-nps-hiking-safety",
+    "knowledge-nps-winter"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:route-safety",
+    "knowledge:watch-gps",
+    "knowledge:cold-weather-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail",
+      "race-preparation"
+    ]
+  }
+}

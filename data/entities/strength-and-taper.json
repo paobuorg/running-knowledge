@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:strength-and-taper",
+  "slug": "strength-and-taper",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-cdc-adult-activity",
+    "knowledge-plos-taper",
+    "knowledge-running-injury-review",
+    "knowledge-odphp-pag"
+  ],
+  "relatedRefs": [
+    "knowledge:training-week",
+    "knowledge:easy-run",
+    "knowledge:long-run",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

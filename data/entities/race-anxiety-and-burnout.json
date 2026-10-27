@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:race-anxiety-and-burnout",
+  "slug": "race-anxiety-and-burnout",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-gad",
+    "knowledge-who-burnout",
+    "knowledge-nhs-insomnia"
+  ],
+  "relatedRefs": [
+    "knowledge:running-habits",
+    "knowledge:sleep-recovery",
+    "knowledge:recovery-day",
+    "knowledge:training-log"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "habits",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

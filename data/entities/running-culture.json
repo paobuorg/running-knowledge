@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:running-culture",
+  "slug": "running-culture",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-baa-rules",
+    "knowledge-world-athletics-records",
+    "knowledge-running-injury-review",
+    "knowledge-physiology-determinants",
+    "knowledge-world-athletics-marathon"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:route-safety",
+    "knowledge:running-habits",
+    "tool:route-compare"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "reading"
+    ]
+  }
+}

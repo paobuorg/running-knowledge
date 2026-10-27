@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-odphp-pag",
+  "title": "Physical Activity Guidelines for Americans, 2nd edition",
+  "url": "https://odphp.health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf",
+  "publisher": "U.S. Department of Health and Human Services, Office of Disease Prevention and Health Promotion",
+  "publishedAt": "2018-11-12",
+  "accessedAt": "2026-10-26",
+  "claims": [
+    "Adults gain substantial health benefits from regular physical activity.",
+    "The guidelines recommend moving more and sitting less throughout the day.",
+    "For substantial health benefits, adults need at least 150 to 300 minutes a week of moderate-intensity aerobic activity, or 75 to 150 minutes a week of vigorous-intensity aerobic activity, or an equivalent combination.",
+    "Adults should do muscle-strengthening activities on at least 2 days a week."
+  ],
+  "license": null
+}

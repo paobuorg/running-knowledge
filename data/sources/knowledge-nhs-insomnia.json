@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-nhs-insomnia",
+  "title": "Insomnia",
+  "url": "https://www.nhs.uk/conditions/insomnia/",
+  "publisher": "National Health Service",
+  "publishedAt": null,
+  "accessedAt": "2026-10-26",
+  "claims": [
+    "Everyone needs different amounts of sleep.",
+    "On average, adults need 7 to 9 hours of sleep.",
+    "Insomnia means regularly having problems sleeping and usually improves by changing sleeping habits.",
+    "Persistent sleep problems can affect daily life and may need medical advice."
+  ],
+  "license": null
+}

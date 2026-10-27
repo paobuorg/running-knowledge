@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-plos-taper",
+  "title": "Effects of tapering on performance in endurance athletes: a systematic review and meta-analysis",
+  "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282838",
+  "publisher": "PLOS ONE",
+  "publishedAt": "2023-05-10",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "The meta-analysis included 14 studies and found significant improvements in time-trial and time-to-exhaustion performance after tapering.",
+    "A taper that reduced training volume by 41-60%, maintained training intensity and frequency, and lasted up to 21 days was associated with improved time-trial performance.",
+    "Tapering combined with pre-taper overload training showed a larger effect on time-trial performance than conventional tapering.",
+    "The authors note that tapering practices still need individual adaptation."
+  ],
+  "license": null
+}

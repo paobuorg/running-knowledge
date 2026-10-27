@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:training-log",
+  "slug": "training-log",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-odphp-activity-planner",
+    "knowledge-running-injury-review",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:training-week",
+    "knowledge:recovery-day",
+    "knowledge:watch-gps",
+    "knowledge:sleep-recovery"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

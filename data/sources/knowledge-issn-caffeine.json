@@ -1,0 +1,15 @@
+{
+  "sourceId": "knowledge-issn-caffeine",
+  "title": "International Society of Sports Nutrition position stand: caffeine and exercise performance",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33388079/",
+  "publisher": "Journal of the International Society of Sports Nutrition",
+  "publishedAt": "2021-01-02",
+  "accessedAt": "2026-10-27",
+  "claims": [
+    "Caffeine can acutely enhance various aspects of exercise performance in many but not all studies, with aerobic endurance showing the most consistent moderate-to-large benefits.",
+    "Doses of 3-6 mg/kg body mass have consistently improved exercise performance; very high doses are associated with more side effects.",
+    "A common timing is about 60 minutes before exercise, although optimal timing depends on the caffeine source.",
+    "Individual responses vary, and caffeine can adversely affect sleep or anxiety in some people."
+  ],
+  "license": null
+}

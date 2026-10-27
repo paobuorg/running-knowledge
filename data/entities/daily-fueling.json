@@ -1,0 +1,44 @@
+{
+  "entityId": "knowledge:daily-fueling",
+  "slug": "daily-fueling",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-protein",
+    "knowledge-issn-caffeine",
+    "knowledge-fda-supplements",
+    "knowledge-cdc-healthy-weight",
+    "knowledge-issn-nutrient-timing",
+    "knowledge-nhs-hydration"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:hydration",
+    "knowledge:training-week",
+    "tool:race-predict"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-04-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "long-run",
+      "race-preparation"
+    ]
+  }
+}

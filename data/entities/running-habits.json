@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:running-habits",
+  "slug": "running-habits",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nhs-couch-to-5k",
+    "knowledge-cdc-adult-activity",
+    "knowledge-odphp-activity-planner"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:recovery-day",
+    "tool:run-walk"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-27",
+  "updatedAt": "2026-10-27",
+  "reviewedAt": "2026-10-27",
+  "reviewDueAt": "2027-10-27",
+  "translations": [],
+  "details": {
+    "primaryTopic": "habits",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}
