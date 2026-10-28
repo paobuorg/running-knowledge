@@ -35,7 +35,7 @@ The ISSN review reports that caffeine at 3–6 mg/kg body weight can improve end
 
 Supplements are not drugs. The FDA regulates dietary supplements differently from medicines: manufacturers are responsible for evaluating safety and labelling before marketing, while the FDA can act after products reach the market. Most runners do not need supplements if their diet is adequate. If you consider one, check the ingredients, dose and third-party testing information, and discuss it with a clinician or dietitian — especially with a medical condition, medication use or pregnancy.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not prescribe individual calorie, weight-loss or supplement plans, and does not diagnose eating disorders, anaemia or endocrine problems. Persistent fatigue, marked weight change, menstrual changes, repeated stress injuries or a difficult relationship with food deserve help from a clinician or registered dietitian.
 

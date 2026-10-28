@@ -35,7 +35,7 @@ Cold air can irritate the airways and cause a dry throat, cough or breathing dis
 
 If you have asthma, a heart condition, Raynaud's phenomenon or marked cold sensitivity, discuss winter exercise with a clinician first. Stop and seek urgent help for chest pain, severe breathlessness, confusion, violent shivering or difficulty speaking.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not provide field treatment for frostbite or hypothermia, or judge whether a specific temperature is safe for you. Severe frostbite, hypothermia, chest pain, altered consciousness or breathing difficulty are emergencies; contact local emergency services.
 

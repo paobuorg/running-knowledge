@@ -41,7 +41,7 @@ Stop and call emergency services for confusion, slurred speech, fainting, seizur
 
 The NWS safety sequence is to call emergency services first and cool the person while waiting; specific first aid should be delivered by trained responders and the medical system.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not provide field treatment for heat stroke, individual fluid prescriptions or medical clearance for a race. Heat illness is a medical emergency; people with a medical condition, medication, pregnancy or a previous heat illness should discuss exercise plans with a clinician.
 

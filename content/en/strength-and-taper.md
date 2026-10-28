@@ -35,7 +35,7 @@ The goal of race week is to remove fatigue, not to squeeze in one last stimulus.
 
 If tapering leaves you more tired, sleeping badly or in pain, check total load, stress and health rather than adding more training.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not prescribe an individual strength programme, treat injury or give an exact taper percentage. Persistent pain, fatigue, a history of injury or conflicting race goals deserve assessment by a qualified coach, clinician or sports professional.
 

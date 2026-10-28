@@ -27,7 +27,7 @@ Instant pace is often smoothed, and short reps, GPS drift or pauses can make it 
 
 For long runs and trails, battery, offline maps and a backup power source are part of safety kit. The National Park Service recommends a map/compass and headlamp; a phone or watch should not be the only navigation. Tell someone your route and return time. Device data cannot replace judgement about weather, closures and body signals.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not rank brands or models, treat wrist heart rate as a medical diagnosis or guarantee GPS accuracy. Stop and seek medical help for chest pain, fainting, unusual palpitations or persistent symptoms rather than checking the watch again.
 

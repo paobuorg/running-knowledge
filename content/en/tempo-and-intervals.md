@@ -41,7 +41,7 @@ Decide how many runs you can repeat each week, then place quality work inside th
 
 Record rep times, RPE, breathing and how you felt afterwards. If the same session keeps getting harder, or easy runs also stop feeling easy, check sleep, energy intake and total load before adding more work.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not prescribe an individual training plan, exact paces or a performance guarantee. Pain, persistent fatigue, previous injury, or heart and breathing symptoms deserve assessment by a qualified coach, clinician or sports professional. Do not use “one more rep” to override an abnormal signal.
 

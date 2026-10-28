@@ -31,7 +31,7 @@ NHS advice includes urgent assessment for severe knee pain or swelling; review b
 
 Rest does not mean doing nothing. Temporarily reduce running volume and avoid the speeds and gradients that provoke pain, while keeping comfortable low-intensity movement. When symptoms settle, test with short, easy run-walk intervals and build gradually. The NHS progression suggestion is to repeat a similar run at least three or four times before increasing distance or pace. A clinician who knows your situation should adjust the plan.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose, recommend medication, replace imaging or a physical examination, or promise that “form, shoes or stretching” will cure pain. Causes may involve previous injury, bone stress, tendons, muscles or other medical issues. Do not delay professional assessment when it is needed.
 

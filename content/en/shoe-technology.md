@@ -39,7 +39,7 @@ Check the outsole, toe box, heel and upper. Consider replacement when grip is cl
 
 Treat shoes as a variable: record which pair you used, on what surface and whether it caused discomfort. That is more useful than chasing the newest model.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not recommend brands or models, or diagnose foot, ankle or knee problems. Persistent pain, numbness, swelling or a change in gait deserves assessment by a qualified medical or sports professional.
 

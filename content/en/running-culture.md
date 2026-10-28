@@ -35,7 +35,7 @@ Shoe, plate, watch and supplement marketing often attributes complex performance
 
 Gear can improve comfort, safety or efficiency, but no product replaces training, recovery and individual adaptation. When a claim promises a percentage improvement, ask about the study population, comparison conditions, funding and practical meaning.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not issue final record rulings, interpret a race's rules for you or recommend gear. Event rules belong to the organiser, records belong to World Athletics, and research questions belong with the original papers and statistical methods rather than second-hand summaries.
 

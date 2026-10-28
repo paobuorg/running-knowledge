@@ -27,7 +27,7 @@ NHS progression advice is to repeat a similar run at least three or four times b
 
 If running worsens pain, changes your gait, causes new swelling or persists into the next day, stop and return to pain-free activity; seek professional assessment if symptoms persist or recur. Fever, chest pain, fainting or unusual breathlessness are not things to “adapt to”; stop and seek medical help.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not give an individual return-to-running plan or diagnose an injury, and does not promise that a progression suits you. Post-surgical recovery, bone-stress injury, cardiovascular conditions and postpartum return need guidance from the relevant professional, not a web page alone.
 

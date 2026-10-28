@@ -35,7 +35,7 @@ Follow a long run with an easy day or rest. If you are still clearly fatigued th
 
 Do not force a long run with fever, significant pain, unusual palpitations or chest pain, dizziness, or persistent vomiting or diarrhoea; address those signals first and seek medical help when needed. In severe weather, on unfamiliar routes or without reliable fuelling, shortening or postponing is more sensible than pushing through.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not prescribe an individual long-run distance or promise that a distance improves performance or prevents injury. A plan should account for your health, injury history, goal and recovery; consult a qualified clinician if you have a medical condition or persistent symptoms.
 

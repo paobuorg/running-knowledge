@@ -27,7 +27,7 @@ Sweat loses water and salt, but sweat volume and sodium concentration vary widel
 
 The U.S. National Weather Service lists heavy sweating, weakness, dizziness, nausea, headache and fainting among heat-exhaustion signs. Heat stroke can include confusion, slurred speech, very high body temperature, a rapid strong pulse or loss of consciousness; it is an emergency. Call local emergency services and cool the person while waiting. Do not treat heat stroke by telling the runner to drink more and continue.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not prescribe individual fluid volumes, salt doses or electrolyte formulas, and does not diagnose dehydration or low blood sodium. People with kidney or heart conditions, or those taking diuretics or other medication, should discuss fluid plans with a clinician. Seek medical help for persistent vomiting, altered consciousness or marked swelling.
 

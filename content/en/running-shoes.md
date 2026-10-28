@@ -31,7 +31,7 @@ Road shoes prioritise comfort and stability on hard surfaces. Trail running adds
 
 The U.S. National Park Service “Ten Essentials” is a hiking framework: navigation, sun protection, clothing, illumination, first aid, fire, repair kit, food, water and water-treatment supplies, and shelter. Adapt it to the run's length, weather and escape options, but do not omit a headlamp with spare batteries, basic first aid, extra warmth and reliable navigation just because the activity is “only a run”. Gear cannot replace route judgement.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not recommend brands or decide whether a shoe suits your foot shape, injury history or race goal. Persistent pain, structural foot problems or conditions such as diabetes deserve assessment by a qualified medical or podiatry professional; changing shoes is not treatment.
 

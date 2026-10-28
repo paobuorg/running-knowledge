@@ -31,7 +31,7 @@ When a plan is interrupted, return at a similar but slightly lower load rather t
 
 Record date, duration, how it felt, sleep and pain, not only pace. Every two or three weeks, review what conditions made sessions most likely to happen and which arrangements were always skipped. Keep the successful conditions and shrink unrealistic goals. Habits are built by making the right choice easier, not by relying on willpower.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not give an individual training plan, promise weight loss or performance, or replace medical advice about exercise. People with cardiovascular, metabolic, bone/joint or other health conditions should consult a qualified clinician before starting. Stop and seek emergency help for chest pain, fainting or unusual breathlessness.
 

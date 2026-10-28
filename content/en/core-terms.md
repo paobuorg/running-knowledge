@@ -52,10 +52,10 @@ A glossary is a reading tool, not an exam answer. The same word can have differe
 
 When reading training content, check whether it means pace, speed or perceived effort. In a route profile, distinguish cumulative climb, net change and grade. In a tool result, confirm units, distance basis and whether elevation is present. If unsure, return to the source and its conditions rather than memorising a number.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not provide an individual training prescription, medical diagnosis or guarantee of device accuracy. VO2max and lactate-threshold numbers require qualified testing and interpretation; pain or disease management should involve the relevant professional.
 
 ## Sources and scope
 
-Activity intensity and the talk test follow the CDC; cadence/stride relationships follow a Sports Health systematic review; uphill/downhill differences follow a Sports Medicine review; the multi-factor VO2max, lactate-threshold and running-economy framework follows a PubMed review; GPX and GeoJSON definitions follow their specifications. RunMap edited the Chinese explanations; specific research conclusions remain with the sources.
+Activity intensity and the talk test follow the CDC; cadence/stride relationships follow a Sports Health systematic review; uphill/downhill differences follow a Sports Medicine review; the multi-factor VO2max, lactate-threshold and running-economy framework follows a PubMed review; GPX and GeoJSON definitions follow their specifications. RunMap wrote the Chinese explanations; specific research conclusions remain with the sources.

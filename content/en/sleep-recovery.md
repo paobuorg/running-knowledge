@@ -27,7 +27,7 @@ When sleep worsens for several days, reduce volume or drop a quality session and
 
 Unfamiliar beds, early transport and nerves can affect sleep around a race. Plan travel, bring familiar sleep items and avoid changing every habit at the last minute. If the night before a race is poor, do not compensate with extra caffeine or unfamiliar supplements; a familiar race-day routine matters more.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose insomnia, sleep apnoea or another sleep disorder, and does not recommend medication, supplements or a fixed sleep duration. Persistent insomnia, significant daytime impairment, snoring with breathing pauses or sudden daytime sleepiness should be medically assessed. Do not rely on willpower to fight drowsiness while driving or operating machinery.
 

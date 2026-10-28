@@ -31,7 +31,7 @@ The long run is a place to practise sustained movement, fuelling and route judge
 
 A recovery day can be complete rest or very light walking or jogging; the test is that it does not leave you more tired. Sleep, work and life stress change the cost of the same plan, so review once a week: which session was hardest to recover from? Which day is always skipped? Shrink the unsustainable part instead of forcing it with willpower.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not give an individual training plan or promise that a frequency suits your injury history, health or race goal. Pain, persistent fatigue, worsening sleep or a previous injury should prompt a lower load and assessment by a qualified coach or clinician.
 

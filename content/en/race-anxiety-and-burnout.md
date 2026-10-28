@@ -35,7 +35,7 @@ Work, family, caregiving and financial stress all affect training. Goals can cha
 
 If training has become persistent self-criticism, secrecy or compulsion, take it seriously. Talking with someone you trust, a clinician or a mental-health professional is safer than struggling alone.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose anxiety, depression, eating disorders or overtraining, and does not provide psychotherapy or medication advice. If you or someone else is at risk of self-harm, severely hopeless or in a mental-health crisis, contact local emergency or crisis services rather than waiting to adjust a training plan.
 

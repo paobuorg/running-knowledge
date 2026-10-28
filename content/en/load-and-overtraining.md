@@ -47,7 +47,7 @@ Reduce volume and intensity, and review sleep, energy intake, illness and life s
 
 The first four deserve a prompt discussion with a clinician or sports-medicine professional; the last group needs urgent medical assessment. Do not use caffeine, painkillers or “one more week” to mask worsening signals.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose overtraining syndrome, anaemia, thyroid disease, depression or infection, and does not prescribe a recovery timeline or supplements. Persistent fatigue and performance decline have many possible causes and need assessment by someone who knows your training and health.
 

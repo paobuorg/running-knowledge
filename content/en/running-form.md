@@ -39,7 +39,7 @@ Research shows that uphill running usually has a higher step frequency and short
 
 One small study compared artificial grass, rubber and concrete and found no significant differences in many joint-motion and loading variables, but higher ankle moments and frontal-plane hip/knee moments on concrete. A single study cannot produce a universal rule, but it is a reminder to reduce intensity and observe your response when the surface is hard and fatigue accumulates.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose individual form, treat injury or prescribe a “correct” posture for every runner. Persistent pain, a new injury or a history of injury deserves assessment by a qualified medical or sports professional. Technique work cannot replace sleep, load management and recovery.
 

@@ -35,7 +35,7 @@ The CDC notes that adults with chronic health conditions or disabilities can be 
 
 The details depend on the condition, medication and day-to-day state. Some medicines affect heart rate, temperature regulation or blood glucose; heat, dehydration and infection can raise risk. Discuss appropriate intensity and monitoring with a clinician who knows your condition, and do not change medication on your own.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose disease, prescribe individual exercise for pregnancy or chronic conditions, or replace maternity, cardiology, endocrinology or other specialist care. Chest pain, fainting, severe breathlessness, altered consciousness, persistent bleeding or marked deterioration need urgent medical help.
 

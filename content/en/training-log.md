@@ -35,7 +35,7 @@ A route file can reveal home, work, regular routes and daily routines. Before sh
 
 A training log can also contain health, injury and reproductive information. Record only what you are willing to keep, and do not paste a full log into a public page or issue.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not diagnose pain, fatigue or sleep problems, and does not prescribe an individual training plan. A log is not a medical record. Persistent pain, chest symptoms, fainting, unusual breathlessness or marked weight change deserve medical assessment.
 

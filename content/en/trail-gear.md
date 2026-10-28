@@ -35,7 +35,7 @@ Trail running involves rain, wind, brush and hours of friction. Layer clothing f
 
 After long runs, check shoe soles, pack zips, headlamp charge and clothing tears; replace worn or failed items. Lightweight should never come at the cost of illumination, warmth or navigation.
 
-## What this page does not provide
+## Scope and limits
 
 This page does not recommend specific brands or replace a race's mandatory-kit list and route description. Technical terrain, glaciers, avalanche terrain or roped routes require specific training and local guidance; do not enter terrain beyond your ability on the strength of one article.
 
