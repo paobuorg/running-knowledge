@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:race-day-fueling",
+  "slug": "race-day-fueling",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-issn-carbohydrate-timing",
+    "knowledge-issn-nutrient-timing"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:hydration",
+    "tool:race-checklist",
+    "tool:race-predict"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "marathon"
+    ]
+  }
+}

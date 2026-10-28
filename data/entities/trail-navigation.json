@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:trail-navigation",
+  "slug": "trail-navigation",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nps-hike-smart",
+    "knowledge-nps-ten-essentials"
+  ],
+  "relatedRefs": [
+    "knowledge:route-safety",
+    "knowledge:trail-gear",
+    "knowledge:heat-and-humidity",
+    "tool:route-elevation"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "technique",
+      "gear"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "trail-running",
+      "race-preparation"
+    ]
+  }
+}

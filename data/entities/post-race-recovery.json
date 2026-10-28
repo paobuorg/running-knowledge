@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:post-race-recovery",
+  "slug": "post-race-recovery",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nhs-running-injuries",
+    "knowledge-issn-nutrient-timing"
+  ],
+  "relatedRefs": [
+    "knowledge:recovery-day",
+    "knowledge:sleep-recovery",
+    "knowledge:return-to-running",
+    "knowledge:training-week"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "training",
+      "nutrition"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "post-race",
+      "general-training"
+    ]
+  }
+}

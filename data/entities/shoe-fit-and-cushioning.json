@@ -1,0 +1,38 @@
+{
+  "entityId": "knowledge:shoe-fit-and-cushioning",
+  "slug": "shoe-fit-and-cushioning",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-shoe-cushioning",
+    "knowledge-nhs-running-injuries"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:shoe-technology",
+    "tool:shoe-mileage",
+    "knowledge:return-to-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}
