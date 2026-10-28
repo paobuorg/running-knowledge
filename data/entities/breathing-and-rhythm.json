@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:breathing-and-rhythm",
+  "slug": "breathing-and-rhythm",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-physiology-determinants"
+  ],
+  "relatedRefs": [
+    "knowledge:running-form",
+    "knowledge:easy-run",
+    "knowledge:tempo-and-intervals",
+    "knowledge:cadence-and-stride"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "technique",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

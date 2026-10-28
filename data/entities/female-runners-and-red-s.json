@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:female-runners-and-red-s",
+  "slug": "female-runners-and-red-s",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-ioc-reds",
+    "knowledge-cdc-pregnancy-activity"
+  ],
+  "relatedRefs": [
+    "knowledge:running-across-life",
+    "knowledge:daily-fueling",
+    "knowledge:load-and-overtraining",
+    "knowledge:pain-communication"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "nutrition",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

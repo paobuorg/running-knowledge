@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:older-runners",
+  "slug": "older-runners",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-cdc-older-adults",
+    "knowledge-cdc-chronic-conditions"
+  ],
+  "relatedRefs": [
+    "knowledge:running-across-life",
+    "knowledge:strength-and-taper",
+    "knowledge:recovery-day",
+    "knowledge:goal-setting-and-review"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "health",
+    "secondaryTopics": [
+      "training",
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

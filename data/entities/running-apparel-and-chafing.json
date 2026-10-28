@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:running-apparel-and-chafing",
+  "slug": "running-apparel-and-chafing",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-nps-winter",
+    "knowledge-nhs-blisters"
+  ],
+  "relatedRefs": [
+    "knowledge:running-shoes",
+    "knowledge:trail-gear",
+    "knowledge:cold-weather-running",
+    "knowledge:shoe-fit-and-cushioning"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "gear",
+    "secondaryTopics": [
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "trail-running"
+    ]
+  }
+}
