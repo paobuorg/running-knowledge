@@ -1,0 +1,41 @@
+{
+  "entityId": "knowledge:load-and-overtraining",
+  "slug": "load-and-overtraining",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-overtraining-guide",
+    "knowledge-running-injury-review",
+    "knowledge-nhs-insomnia"
+  ],
+  "relatedRefs": [
+    "knowledge:training-log",
+    "knowledge:sleep-recovery",
+    "knowledge:recovery-day",
+    "knowledge:pain-and-load",
+    "knowledge:return-to-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "recovery",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

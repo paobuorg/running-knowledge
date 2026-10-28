@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:heat-and-humidity",
+  "slug": "heat-and-humidity",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-nws-heat-illness",
+    "knowledge-nhs-hydration",
+    "knowledge-cdc-intensity"
+  ],
+  "relatedRefs": [
+    "knowledge:hydration",
+    "knowledge:long-run-fueling",
+    "knowledge:route-safety",
+    "knowledge:cold-weather-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "safety",
+    "secondaryTopics": [
+      "nutrition"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

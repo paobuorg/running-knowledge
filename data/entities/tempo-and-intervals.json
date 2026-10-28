@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:tempo-and-intervals",
+  "slug": "tempo-and-intervals",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-cdc-intensity",
+    "knowledge-running-injury-review"
+  ],
+  "relatedRefs": [
+    "knowledge:easy-run",
+    "knowledge:training-week",
+    "knowledge:strength-and-taper",
+    "knowledge:long-run",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "training",
+    "secondaryTopics": [
+      "recovery"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}
