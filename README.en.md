@@ -6,10 +6,10 @@ This repository holds the evergreen running knowledge, bilingual articles, sourc
 
 ## Status
 
-- Twenty-three articles cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary adds a twenty-fourth knowledge entity, and the site provides five learning paths.
-- All twenty-four knowledge entities were **AI-assisted editorially reviewed** and published on 2026-10-27 (`published`, with bilingual `approve` records and matching digests): twenty-three articles plus one glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
+- Twenty-seven articles cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary adds a twenty-eighth knowledge entity, and the site provides five learning paths.
+- All twenty-eight knowledge entities were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests): twenty-seven articles plus one glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
 - The only author/review identity is `runmap-editorial`, shown as “RunMap editorial desk (AI-assisted draft and review)”. There is no personal qualification claim; the approval is an AI-assisted editorial review, not professional review.
-- There is no remote repository, public issue tracker or deployed site yet. This repository does not claim professional review.
+- The six repositories are published under `paobuorg`, and the knowledge site is live at `https://learn.paobu.org/`. This repository does not claim professional review.
 
 ## Content model
 
@@ -51,4 +51,4 @@ The build validates bilingual pairing, topics, sources, licences, review dates a
 
 Once the repository is hosted, report factual or source problems through an issue or pull request that names the paragraph, the existing source and a proposed source. No public issue URL or email address exists yet, and none is invented here. See [CONTRIBUTING.md](CONTRIBUTING.md), whose second half is in English.
 
-Last checked: 2026-10-27.
+Last checked: 2026-10-28.
