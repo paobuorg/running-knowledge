@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:supplements-and-evidence",
+  "slug": "supplements-and-evidence",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "knowledge-fda-supplements",
+    "knowledge-issn-protein",
+    "knowledge-issn-caffeine"
+  ],
+  "relatedRefs": [
+    "knowledge:daily-fueling",
+    "knowledge:caffeine-and-running",
+    "knowledge:race-day-fueling",
+    "knowledge:hydration"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-04-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "nutrition",
+    "secondaryTopics": [
+      "health"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:reading-running-research",
+  "slug": "reading-running-research",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-running-injury-review",
+    "knowledge-plos-taper",
+    "knowledge-physiology-determinants"
+  ],
+  "relatedRefs": [
+    "knowledge:running-culture",
+    "knowledge:pain-and-load",
+    "knowledge:strength-and-taper",
+    "knowledge:shoe-technology"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "health",
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training"
+    ]
+  }
+}

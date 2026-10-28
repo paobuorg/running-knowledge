@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:goal-setting-and-review",
+  "slug": "goal-setting-and-review",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-goal-setting-review",
+    "knowledge-odphp-activity-planner"
+  ],
+  "relatedRefs": [
+    "knowledge:running-habits",
+    "knowledge:training-log",
+    "knowledge:training-week",
+    "knowledge:race-anxiety-and-burnout"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "habits",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "general-training",
+      "race-preparation"
+    ]
+  }
+}

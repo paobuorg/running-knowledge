@@ -6,8 +6,8 @@ This repository holds the evergreen running knowledge, bilingual articles, sourc
 
 ## Status
 
-- Twenty-seven articles cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary adds a twenty-eighth knowledge entity, and the site provides five learning paths.
-- All twenty-eight knowledge entities were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests): twenty-seven articles plus one glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
+- Forty-two articles cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary adds a forty-third knowledge entity, and the site provides five learning paths.
+- All forty-three knowledge entities were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests): forty-two articles plus one glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
 - The only author/review identity is `runmap-editorial`, shown as “RunMap editorial desk (AI-assisted draft and review)”. There is no personal qualification claim; the approval is an AI-assisted editorial review, not professional review.
 - The six repositories are published under `paobuorg`, and the knowledge site is live at `https://learn.paobu.org/`. This repository does not claim professional review.
 
