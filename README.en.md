@@ -1,4 +1,4 @@
-# RunMap · Running knowledge
+# RUNUP · Running knowledge
 
 [中文](README.md) · English
 
@@ -8,7 +8,7 @@ This repository holds the evergreen running knowledge, bilingual articles, sourc
 
 - Fifty articles cover all nine topics: training, technique, recovery, nutrition, gear, health, safety, habits and culture. Each has complete Chinese and English text. A glossary adds a fifty-first knowledge entity, and the site provides five learning paths.
 - All fifty-one knowledge entities were **AI-assisted editorially reviewed** and published on 2026-10-28 (`published`, with bilingual `approve` records and matching digests): fifty articles plus one glossary. The reviewer is `runmap-editorial`, explicitly AI-assisted, not independent professional medical/nutrition review. All nine topics are covered.
-- The only author/review identity is `runmap-editorial`, shown as “RunMap editorial desk (AI-assisted draft and review)”. There is no personal qualification claim; the approval is an AI-assisted editorial review, not professional review.
+- The only author/review identity is `runmap-editorial`, shown as “RunUp Editorial”. No personal qualification is claimed; review records are AI-assisted editorial reviews, not independent professional review.
 - The six repositories are published under `paobuorg`, and the knowledge site is live at `https://learn.paobu.org/`. This repository does not claim professional review.
 
 ## Content model
@@ -45,7 +45,7 @@ The build validates bilingual pairing, topics, sources, licences, review dates a
 
 ## Licence and corrections
 
-- New article text: CC BY 4.0, attributed to “RunMap 跑地图”.
+- New article text: CC BY 4.0, attributed to “RunUp 跑起来”.
 - Images and third-party material: under each source's terms; material without confirmed rights does not enter the repository.
 - Site code: MIT, in the three `site-*` repositories.
 

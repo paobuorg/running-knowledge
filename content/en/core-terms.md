@@ -58,4 +58,4 @@ This page does not provide an individual training prescription, medical diagnosi
 
 ## Sources and scope
 
-Activity intensity and the talk test follow the CDC; cadence/stride relationships follow a Sports Health systematic review; uphill/downhill differences follow a Sports Medicine review; the multi-factor VO2max, lactate-threshold and running-economy framework follows a PubMed review; GPX and GeoJSON definitions follow their specifications. RunMap wrote the Chinese explanations; specific research conclusions remain with the sources.
+Activity intensity and the talk test follow the CDC; cadence/stride relationships follow a Sports Health systematic review; uphill/downhill differences follow a Sports Medicine review; the multi-factor VO2max, lactate-threshold and running-economy framework follows a PubMed review; GPX and GeoJSON definitions follow their specifications. RunUp wrote the Chinese explanations; specific research conclusions remain with the sources.

@@ -58,4 +58,4 @@ translationStatus: reviewed
 
 ## 来源与适用范围
 
-活动强度和谈话测试参考 CDC；步频与步幅关系参考 Sports Health 系统综述；上下坡差异参考 Sports Medicine 综述；VO2max、乳酸阈和跑步经济性的多因素框架参考 PubMed 综述；GPX 与 GeoJSON 定义参考规范文档。术语的中文解释由跑地图编写，具体研究结论以来源为准。
+活动强度和谈话测试参考 CDC；步频与步幅关系参考 Sports Health 系统综述；上下坡差异参考 Sports Medicine 综述；VO2max、乳酸阈和跑步经济性的多因素框架参考 PubMed 综述；GPX 与 GeoJSON 定义参考规范文档。术语的中文解释由跑起来编写，具体研究结论以来源为准。

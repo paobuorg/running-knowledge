@@ -31,7 +31,7 @@ Pace is time divided by distance. Over 42.195 km:
 
 These are averages only. In a real race, start congestion, aid-station stops, hills and weather make the first and second halves differ. Treat an average as a target to manage, not a demand that every kilometre be identical.
 
-For accurate conversions, use the [pace calculator](/en/tools/pace/) in RunMap Tools: enter distance and time to get both pace and speed.
+For accurate conversions, use the [pace calculator](/en/tools/pace/) in RunUp Tools: enter distance and time to get both pace and speed.
 
 ## What it means for training
 
