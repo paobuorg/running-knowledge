@@ -1,0 +1,40 @@
+{
+  "entityId": "knowledge:classic-races-and-history",
+  "slug": "classic-races-and-history",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-world-athletics-marathon",
+    "knowledge-world-athletics-records",
+    "knowledge-baa-rules"
+  ],
+  "relatedRefs": [
+    "knowledge:running-culture",
+    "knowledge:records-and-course-validity",
+    "route:boston",
+    "route:utmb"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "training"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "general-training"
+    ]
+  }
+}

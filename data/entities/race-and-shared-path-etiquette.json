@@ -1,0 +1,39 @@
+{
+  "entityId": "knowledge:race-and-shared-path-etiquette",
+  "slug": "race-and-shared-path-etiquette",
+  "kind": "knowledge",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "knowledge-baa-rules",
+    "knowledge-nps-hike-smart"
+  ],
+  "relatedRefs": [
+    "knowledge:running-culture",
+    "tool:race-checklist",
+    "knowledge:route-safety",
+    "knowledge:trail-navigation"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-10-28",
+  "updatedAt": "2026-10-28",
+  "reviewedAt": "2026-10-28",
+  "reviewDueAt": "2027-10-28",
+  "translations": [],
+  "details": {
+    "primaryTopic": "culture",
+    "secondaryTopics": [
+      "safety"
+    ],
+    "contentType": "guide",
+    "audiences": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "scenarios": [
+      "race-preparation",
+      "trail-running"
+    ]
+  }
+}
